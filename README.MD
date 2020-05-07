@@ -1,4 +1,4 @@
-# Example AWS Lambda C# .NET Core 3.1 ReadyToRun with connect MySQL via not using any ORM
+# Example AWS Lambda C# .NET Core 3.1 ReadyToRun with connect MySQL via Dapper
 
 ## For The First Time - Build Complier Container
 
