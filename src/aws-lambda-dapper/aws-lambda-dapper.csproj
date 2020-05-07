@@ -5,6 +5,8 @@
     <AWSProjectType>Lambda</AWSProjectType>
     <PublishReadyToRun>true</PublishReadyToRun>
     <SelfContained>False</SelfContained>
+    <TieredCompilation>false</TieredCompilation>
+    <TieredCompilationQuickJit>false</TieredCompilationQuickJit>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Amazon.Lambda.Core" Version="1.1.0" />
