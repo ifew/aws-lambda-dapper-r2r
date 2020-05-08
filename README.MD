@@ -8,6 +8,8 @@ $ cd src/aws-lambda-db
 $ docker build -t build_linux_dotnetcore:3.1 .
 ```
 
+## Step to build and deploy
+
 **Compile and Build package**
 ```
 $ sh build_linux.sh
